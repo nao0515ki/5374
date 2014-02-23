@@ -39,6 +39,6 @@
           }
         }
         if(findTheStringFlg=="false"){
-          alert("該当するゴミはありませんでした");
+          alert("[" + searchString + "]に該当する文字は見つかりませんでした");
         }
       }
